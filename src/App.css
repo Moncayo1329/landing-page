@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+  }
+  
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .img img {
+    border-radius: 30px 40px;
+    /* Otros estilos que desees aplicar a la imagen */
+  }
+  

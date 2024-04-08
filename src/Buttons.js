@@ -5,7 +5,11 @@ function Buttons(){
 return( 
 
 
-    <div></div>
+    <div>
+
+<button>Email</button>
+
+    </div>
 
 );
 
